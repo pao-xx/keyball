@@ -9,6 +9,9 @@
     "rgblight": {
         "driver": "ws2812"
     },
+    "tapping": {
+        "term": 240
+    },
     "layouts": {
       "LAYOUT_no_ball": {
         "layout": [
